@@ -4,7 +4,7 @@ const postData = JSON.stringify({
   msg: 'Hello World!',
 });
 const options = {
-  hostname: 'www.google.com',
+  hostname: 'www.baidu.com',
   port: 80,
   path: '/upload',
   method: 'POST',
